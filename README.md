@@ -1,4 +1,5 @@
 
+
 # Zentra – AI-Driven Mental Health Support Website 💬🧠
 
 Zentra is a web-based mental health support platform developed using PHP and MySQL, designed to help users monitor emotional well-being. It enables daily mood logging, weekly stress assessments, and chatbot-guided support, with an admin dashboard for analytics and resource management.
@@ -16,6 +17,16 @@ Zentra is a web-based mental health support platform developed using PHP and MyS
 - 🤖 AI chatbot (via Landbot iframe)  
 - 📈 Admin dashboard with analytics (Chart.js)  
 - 📬 Feedback system & emergency contact panel  
+
+## 🖼️ Project Screenshots
+
+### 🏠 Home Page
+![Zentra Home](https://raw.githubusercontent.com/RanjithaSelin/mental-health-website/master/HomePage.png)
+
+### 📊 User Dashboard
+![Zentra Dashboard](https://raw.githubusercontent.com/RanjithaSelin/mental-health-website/master/Dashboard.png)
+
+
 
 ## 🔧 Tech Stack
 - **Frontend:** HTML, CSS, Bootstrap  
